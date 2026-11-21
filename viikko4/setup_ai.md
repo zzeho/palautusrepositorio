@@ -1,0 +1,1 @@
+Copilot poisti toisteisuutta järkevästi siirtämällä yhteiset alustukset setUp()-metodiin. Koodista tuli selkeämpi ja helpommin lukea. assert_called_with käytettiin edelleen tarkistamiseen ja agentti erotti testitapaukset omiin metodeihiin. En joutunut pyytämään muutoksia, alkuperäiset testit säilyvät ja toimivat edelleen.
